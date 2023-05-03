@@ -1,8 +1,12 @@
-# Front-end de um sistema de cadastro de livros(MVP - Sprint 1 - Jefferson de Oliveira Torres)
+# Sistema de Cadastro de Livros - Front-end (MVP - Etapa 1 - Jefferson de Oliveira Torres)
 
-Esse é o projeto do front-end que consome a API Python para realizar cadastros de livros.
+Este projeto consiste no front-end desenvolvido para consumir a API Python, com o objetivo de realizar cadastros de livros.
 
 ---
-## Como executar
 
-Basta fazer o download do projeto e abrir o arquivo index.html no seu browser.
+## Instruções para Execução
+
+Siga os passos abaixo para executar o projeto:
+
+* Faça o download do projeto em seu computador.
+* Localize e abra o arquivo "index.html" utilizando seu navegador preferido.
